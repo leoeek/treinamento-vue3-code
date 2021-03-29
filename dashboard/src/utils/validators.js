@@ -15,11 +15,10 @@ export function validateEmptyAndEmail (value) {
     return '*Este campo é obrigatório'
   }
 
-  const isValid = /\S+@\S+\.\S+/.test(value)
-  console.log('is', isValid)
+  const isValid = /^[a-z0-9.]+@[a-z0-9]+\.[a-z]+(\.[a-z]+)?$/i.test(value)
 
   if (!isValid) {
-    return '*Este campo precisa ser um e-mail ' + value
+    return '*Este campo precisa ser um e-mail'
   }
 
   return true

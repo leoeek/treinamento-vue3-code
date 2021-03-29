@@ -1788,10 +1788,10 @@
   resolved "https://registry.npm.taobao.org/@vue/shared/download/@vue/shared-3.0.6.tgz?cache=0&sync_timestamp=1614198085888&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fshared%2Fdownload%2F%40vue%2Fshared-3.0.6.tgz#d65576430fc4ad383dc7c829118798e5169178d4"
   integrity sha1-1lV2Qw/ErTg9x8gpEYeY5RaReNQ=
 
-"@vue/test-utils@^2.0.0-0":
-  version "2.0.0-rc.1"
-  resolved "https://registry.npm.taobao.org/@vue/test-utils/download/@vue/test-utils-2.0.0-rc.1.tgz#cc462997b50dc07d73dee151da0cbb1c39a40a5a"
-  integrity sha1-zEYpl7UNwH1z3uFR2gy7HDmkClo=
+"@vue/test-utils@^2.0.0-rc.4":
+  version "2.0.0-rc.4"
+  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.0.0-rc.4.tgz#536175be968e7c5741e9c95f117024d5053ea54c"
+  integrity sha512-DocrrFP28M7NO7y7iGiX9sf9n1AKEqkxXO5wedtp5FkHiAkc0xfmD4lvxgi4re5+xw7Zzb9U/vrhXKQZ0I4Q9g==
 
 "@vue/web-component-wrapper@^1.2.0":
   version "1.3.0"

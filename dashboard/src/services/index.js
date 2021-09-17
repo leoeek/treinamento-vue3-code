@@ -8,7 +8,7 @@ import FeedbacksService from './feedbacks'
 const API_ENVS = {
   production: 'https://backend-treinamento-vue3-nu.vercel.app',
   development: '',
-  local: 'https://backend-treinamento-vue3-nu.vercel.app'
+  local: 'http://localhost:3000'
 }
 
 const httpClient = axios.create({
